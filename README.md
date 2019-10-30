@@ -2,7 +2,7 @@
  matlab-model-radioastronomy_filter
  
 # INSTALLATION
-This program don't have to be installed, it's just Matlab script launched through this enviroment. That's you have to possess pre-installed Matlab.
+This program don't have to be installed, it's just Matlab script launched through this enviroment. That's why you have to possess pre-installed Matlab.
 
 # REQUIREMENTS
 
