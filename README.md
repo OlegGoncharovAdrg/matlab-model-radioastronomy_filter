@@ -6,7 +6,17 @@ This program don't have to be installed, it's just Matlab script launched throug
 
 # REQUIREMENTS
 
-If you want to execute the program in Matlab 2019a you should have at least:  Operating Systems  • Windows 10  • Windows 7 Service Pack 1  • Windows Server 2019  • Windows Server 2016
+If you want to execute the program in Matlab 2019a you should have at least:  
+
+Operating Systems  
+
+• Windows 10  
+
+• Windows 7 Service Pack 1  
+
+• Windows Server 2019  
+
+• Windows Server 2016
 Note:
 • Windows Server 2019 is supported as of R2019a.
 • Windows Server 2012 and Windows Server 2012 R2 are not supported as of R2019a.
