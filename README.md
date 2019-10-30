@@ -1,8 +1,9 @@
 # matlab-model-radioastronomy_filter
- matlab-model-radioastronomy_filter
+This program serves to get the spectrum representation for GLONASS siglan L1-Band in case added filter to reject spectrum bandwidth for radioastronomy.
  
 # INSTALLATION
-This program don't have to be installed, it's just Matlab script launched through this enviroment. That's why you have to possess pre-installed Matlab.
+This program don't have to be installed, it's just Matlab script launched through this enviroment.<br/> 
+That's why you have to possess pre-installed Matlab.
 
 # REQUIREMENTS
 
